@@ -7,7 +7,7 @@
     <script src="https://kit.fontawesome.com/820a086d7e.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="../public/assets/css/style.css">
-    <title>about</title>
+    <title>easpire</title>
 </head>
 
 <body>
@@ -24,10 +24,10 @@
                         <a class="nav-link px-3 all-data" href="/eAspire/page/about.php">About Us</a>
                     </li>
                     <li class="nav-item all-navbar-content">
-                        <a class="nav-link px-3 all-data" href="#">Product</a>
+                        <a class="nav-link px-3 all-data" href="/eAspire/page/product.php">Product</a>
                     </li>
                     <li class="nav-item all-navbar-content">
-                        <a class="nav-link px-3 all-data" href="#">Services</a>
+                        <a class="nav-link px-3 all-data" href="/eAspire/page/services.php">Services</a>
                     </li>
                     <li class="nav-item all-navbar-content">
                         <a class="nav-link px-3 all-data" href="#">Career</a>
