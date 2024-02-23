@@ -1,6 +1,7 @@
 .easpire-logo-small {
     width: 250px;
 }
+
 .frame1 {
     top: 24px;
     left: 1267px;
@@ -322,6 +323,13 @@
     width: 4%;
     object-fit: cover;
 }
+.header-child-group {
+    position: absolute;
+    top: 20%;
+    left: 96%;
+    width: 4%;
+    object-fit: cover;
+}
 
 .heading-2 {
     font-size: 23px;
@@ -454,7 +462,7 @@
 }
 
 .divelementor-widget-strengths {
-    height: 87%;
+    height: 95%;
     width: 100%;
     border-right: 2px dashed #B4BCC2;
     border-bottom: 2px dashed #B4BCC2;
@@ -971,7 +979,7 @@
 }
 
 .divelementor-widget-container3 {
-    width: 66%;
+    width: 53%;
     top: 215px;
     right: 914px;
     bottom: 706.94px;
@@ -1033,7 +1041,7 @@
     font-size: 30px;
     color: #fff;
     text-align: center;
-height: 100%;
+    height: 100%;
 }
 
 
@@ -1099,7 +1107,7 @@ height: 100%;
     border-left: 5px dashed #b4bcc2;
     box-sizing: border-box;
     width: 90%;
-    height: 134px;
+    height: 80px;
 }
 
 .easpire-shares-a-container {
@@ -1120,92 +1128,133 @@ height: 100%;
     width: 590px;
     height: 191px;
 }
-.unite-info{
-    background-color:#fff;
+
+.unite-info {
+    background-color: #fff;
     box-shadow: 1px 4px 11px rgba(0, 0, 0, 0.25);
     border-left: 5px dashed #b4bcc2;
     box-sizing: border-box;
     margin-top: 29%;
     margin-left: 35px;
 }
-.collaboration-technologies-pvt{
+
+.collaboration-technologies-pvt {
     padding: 13px;
     font-size: 20px;
     font-weight: 600;
 }
-.leadership-team-child{
-    background-color:#ddebee;
+
+.leadership-team-child {
+    background-color: #ddebee;
     width: 861px;
     border-radius: 25px 0 0 25px;
 }
+
 .sanjay-1-icon {
-    width: 270px;
-    height: 300px;
+    width: 66%;
+    height: 282px;
     object-fit: cover;
-    margin-top: 15px;
-    margin-left: -63px;
+    margin-top: 1px;
+    margin-left: 36%;
 }
-.entrepreneurial{
+
+.entrepreneurial {
     padding: 3%;
-    padding-left: 99px;
+    /* padding-left: 99px; */
 }
-.an-entrepreneurial-leader
-{
-    padding: 3%;
+
+.an-entrepreneurial-leader {
+    /* padding: 27px; */
     font-size: 17px;
     text-transform: capitalize;
+    /* padding-bottom: 29px; */
 }
- .sanjay-patel {
+
+.an-entrepreneurial-leader2 {
+    padding: 27px;
+    font-size: 17px;
+    text-transform: capitalize;
+    padding-bottom: 37px;
+}
+
+.sanjay-patel {
     font-size: 28px;
     line-height: 52px;
     font-weight: 600;
     color: #19a2bf;
 }
-.Founder-info{
+
+.Founder-info {
     font-size: 28px;
     color: #19a2bf;
 }
-.Founder{
+
+.Founder {
     padding-left: 23%;
     margin-bottom: 22px;
 }
 
-.Founder-2{
+.Founder-2 {
     padding-left: 9%;
     margin-bottom: 22px;
 }
+
 .kunal-patel {
     font-size: 28px;
     line-height: 52px;
     font-weight: 600;
     color: #19a2bf;
 }
-.leadership-team-child2{
-    background-color:#ddebee;
+
+.leadership-team-child2 {
+    /* background-color: #ddebee;
     width: 861px;
-    border-radius: 0 25px 25px 0;
+    border-radius: 0 25px 25px 0; */
 
 }
 
 .kunals-1-icon {
-    width: 259px;
-    height: 301px;
-    margin-left: 114px;
-    object-fit: cover;
-    margin-top: 19px;   
+    width: 75%;
+    height: 340px;
+    margin-top: 0px;
+    margin-left: 0%;
 }
-.Founder-info-ceo{
+
+.Founder-info-ceo {
     font-size: 28px;
     color: #19a2bf;
 }
-.data-row-info, .kunal-info{
-    padding-left: 40px;
-    padding-right: 40px;
+
+.data-row-info,
+.kunal-info {
+    padding-left: 85px;
+    padding-right: 53px;
 }
-.entrepreneurial-kunal{
+
+.entrepreneurial-kunal {
     padding: 3%;
-    margin-left: -146px;
+    /* margin-left: -166px; */
 }
+
+.background-color {
+    background-color: #ddebee;
+    width: 96%;
+    border-radius: 25px 25px 25px 25px;
+    height: 21%;
+    margin-left: 8px;
+    margin-top: 22px;
+}
+
+.background-color-kunal {
+    background-color: #ddebee;
+    width: 94%;
+    border-radius: 25px 25px 25px 25px;
+    height: 21%;
+    margin-left: 57px;
+    margin-top: 22px;
+    margin-bottom: 50px;
+}
+
 
 
 
@@ -1331,7 +1380,7 @@ height: 100%;
     }
 
     .customers-widget {
-        width: 28%;
+        width: 25%;
         margin-left: 37%;
     }
 
@@ -1359,18 +1408,23 @@ height: 100%;
     .divelementor-widget-container3 {
         width: 99%;
     }
-    .unite-info{
+
+    .unite-info {
         margin-top: 52%;
     }
-    .rectangle-div{
+
+    .rectangle-div {
         height: 161px;
     }
+
     .core-values1 {
         font-size: 25px;
     }
+
     .passion-text {
         font-size: 15px;
     }
+
     .core-values2 {
         width: 65%;
         margin-left: 21px;
@@ -1378,23 +1432,43 @@ height: 100%;
         font-size: 13px;
         padding-top: 82px;
     }
-    .sanjay-1-icon {
-        margin-left: -63px;
+
+    .entrepreneurial-kunal {
+        margin-left: -36px;
+        padding-right: 107px
     }
-    .an-entrepreneurial-leader{
+
+    .an-entrepreneurial-leader {
         font-size: 12px;
     }
+
     .sanjay-1-icon {
-        width: 229px;
-        height: 251px;
-        margin-top: 7px;
-        margin-left: -52px;
+        width: 100%;
+        height: 270px;
+        object-fit: cover;
+        margin-top: 0px;
+        margin-left: -3%;
     }
+
+    .kunals-1-icon {
+        width: 100%;
+        height: 282px;
+        margin-left: 17px;
+        object-fit: cover;
+        margin-top: 27px;
+    }
+
+    .an-entrepreneurial-leader2 {
+        padding: 27px;
+        font-size: 13px;
+        text-transform: capitalize;
+    }
+
+
 
 }
 
 @media only screen and (max-width: 912px) {
-
 
     .menu-icon {
         display: block;
@@ -1556,7 +1630,7 @@ height: 100%;
     }
 
     .divelementor-widget-strengths {
-        height: 50%;
+        height: 56%;
     }
 
     .Industries-widget {
@@ -1647,7 +1721,7 @@ height: 100%;
     }
 
     .divelementor-widget-about {
-        height: 25%;
+        height: 30%;
     }
 
     .divelementor-widget-Mission {
@@ -1659,7 +1733,7 @@ height: 100%;
     }
 
     .divelementor-widget-container3 {
-        width: 98%;
+        width: 59%;
     }
 
     .about-heading-2 {
@@ -1680,29 +1754,113 @@ height: 100%;
         margin-top: 15px;
         font-size: 18px;
     }
-    .unite-info{
+
+    .unite-info {
         margin-top: 66%;
     }
-    .rectangle-div{
+
+    .rectangle-div {
         height: 159px;
     }
+
     .passion-text {
         font-size: 9px;
     }
+
     .core-values2 {
         margin-left: 14px;
         height: 88px;
         font-size: 10px;
         padding-top: 65px;
     }
-    .Founder-2{
+
+    .Founder-2 {
         padding-left: 0px;
     }
+
     .entrepreneurial {
         padding: 0%;
         margin-top: 25px;
         margin-bottom: 46px;
     }
+
+
+    .kunals-1-icon {
+        width: 97%;
+        height: 227px;
+        margin-top: 28px;
+        margin-left: 26%;
+    }
+
+    .entrepreneurial-kunal {
+        padding-right: 28px;
+    }
+
+    .core-values1 {
+        font-size: 19px;
+    }
+
+    .an-entrepreneurial-leader {
+        font-size: 11px;
+        padding-left: 25px;
+    }
+
+    .sanjay-1-icon {
+        width: 100%;
+        height: 200px;
+        margin-top: 40px;
+        margin-left: -10%;
+    }
+
+    .an-entrepreneurial-leader2 {
+        padding: 7px;
+        font-size: 13px;
+        text-transform: capitalize;
+        padding-left: 75px;
+    }
+
+    .background-color-kunal {
+        width: 97%;
+        margin-left: 12px;
+    }
+
+    .kunal-info {
+        padding-right: 60px;
+    }
+    .rectangle-div1{
+        height: 133px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .sanjay-1-icon {
+        width: 168%;
+        height: 309px;
+        margin-top: -3px;
+    }
+
+    .an-entrepreneurial-leader2 {
+        /* padding: 22px; */
+        font-size: 11px;
+        text-transform: capitalize;
+        padding-bottom: 15px;
+    }
+
+    .kunals-1-icon {
+        margin-left: -9px;
+        width: 100%;
+        height: 290px;
+        margin-top: 0px;
+
+    }
+
+    .background-color {
+        margin-left: 11px;
+        margin-bottom: 52px;
+    }
+
+
+
 }
 
 @media only screen and (max-width: 767px) {
@@ -2031,7 +2189,7 @@ height: 100%;
     }
 
     .divelementor-widget-Mission {
-        height: 90%;
+        height: 93%;
     }
 
     .staff {
@@ -2039,7 +2197,7 @@ height: 100%;
     }
 
     .divelementor-widget-container3 {
-        width: 85%;
+        width: 40%;
     }
 
     .about-heading-2 {
@@ -2050,17 +2208,20 @@ height: 100%;
         margin-top: 15px;
         font-size: 14px;
     }
+
     .unite-info {
-        margin-top: 204%;
+        /* margin-top: 204%; */
     }
-    .collaboration-technologies-pvt 
-    {
+
+    .collaboration-technologies-pvt {
         font-size: 11px;
     }
-    .easpire-shares-a-container  {
-        font-size: 16px;
+
+    .easpire-shares-a-container {
+        font-size: 12px;
         text-shadow: none;
     }
+
     .core-values1 {
         font-size: 21px;
         /* line-height: 52px; */
@@ -2071,9 +2232,11 @@ height: 100%;
         width: 31%;
         margin-bottom: 30px;
     }
-    .for-info{
+
+    .for-info {
         /* border-right: none; */
-    } 
+    }
+
     .core-values2 {
         width: 78%;
         margin-left: 35px;
@@ -2081,8 +2244,62 @@ height: 100%;
         font-size: 25px;
         padding-top: 32px;
     }
+
     .leadership-team-child {
-margin-top: 75%;
+        margin-top: 75%;
+    }
+
+    .entrepreneurial {
+        padding: 0%;
+        margin-top: 136px;
+        margin-bottom: 46px;
+    }
+
+    .sanjay-1-icon {
+        width: 272px;
+        margin-left: 31px;
+        margin-top: -90px;
+        margin-bottom: 30px;
+    }
+
+    .an-entrepreneurial-leader {
+        font-size: 11px;
+        padding-left: 37px;
+        padding-right: 7px;
+        margin-top: -350px;
+    }
+
+    .kunals-1-icon {
+        width: 256px;
+        margin-left: 45px;
+        margin-top: 40px;
+    }
+
+    .an-entrepreneurial-leader2 {
+        font-size: 11px;
+        padding-left: 55px;
+        padding-right: 0px;
+
+    }
+
+    .kunal-info {
+        padding-right: 90px;
+        padding-left: 0px;
+    }
+
+    .data-row-info {
+        padding-right: 60px;
+        padding-left: 0px;
+    }
+
+    .rectangle-div1 {
+        height: 155px;
+    }
+    .background-color {
+        margin-left: 53px;
+    }
+    .background-color-kunal {
+        margin-left: 37px;
     }
 }
 

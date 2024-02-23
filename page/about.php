@@ -5,6 +5,8 @@
 <div class="about-main">
     <div class="about">
         <img class="about-img" alt="" src=" ../public/assets/images/aboutus.png" />
+        <img class="header-child-group" alt="" src=" ../public/assets/images/group-13@2x.png">
+
         <div class="about-us-info">About Us</div>
         <div class="about-header-line"></div>
 
@@ -134,8 +136,6 @@
 
 
     <div class="our-info">
-        <!-- <div class="row info-data"> -->
-        <!-- <div class="col-12 col-md-6"> -->
         <div class="our-partner-info">
             <div class="about-heading-2 d-flex">
                 <div class="our-partners"><b>Our Partners :</b></div>
@@ -145,9 +145,6 @@
                 </a>
             </div>
         </div>
-        <!-- </div> -->
-        <!-- <div class="col-12 col-md-6"></div> -->
-        <!-- </div> -->
     </div>
 
 
@@ -312,9 +309,6 @@
 
                 </div>
             </div>
-
-
-
         </div>
     </div>
 
@@ -322,60 +316,60 @@
         <div class="welcome-to-Customers">Leadership Team</div>
         <div class="customers-widget"></div>
         <div class="data-row-info">
-            <div class="row d-flex">
-                <div class="col-8">
-                    <div class="entrepreneurial d-flex">
-                        <div class="leadership-team-child">
-                            <div class="an-entrepreneurial-leader">
-                                <div class="sanjay-patel">Sanjay Patel </div>
-                                <div class="Founder-info-ceo">Founder CEO & Director</div>
-                                An entrepreneurial leader with passion, perseverance, and
-                                determination. Sanjay oversees all aspects of eAspire business
-                                operations and governance. He and his team have grown the company from
-                                its beginnings as a small start-up in 2006, through decades of
-                                technological change, to a provider of staffing, consulting, software
-                                engineering and outsourcing services that is always focused on
-                                delighting customers and delivering value to the marketplace.
+            <div class="background-color">
+                <div class="row">
+                    <div class="col-12 col-md-8">
+                        <div class="entrepreneurial d-flex">
+                            <div class="leadership-team-child">
+                                <div class="an-entrepreneurial-leader">
+                                    <div class="sanjay-patel">Sanjay Patel </div>
+                                    <div class="Founder-info-ceo">Founder CEO & Director</div>
+                                    An entrepreneurial leader with passion, perseverance, and
+                                    determination. Sanjay oversees all aspects of eAspire business
+                                    operations and governance. He and his team have grown the company from
+                                    its beginnings as a small start-up in 2006, through decades of
+                                    technological change, to a provider of staffing, consulting, software
+                                    engineering and outsourcing services that is always focused on
+                                    delighting customers and delivering value to the marketplace.
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-4">
-                    <div class="image-info"></div>
-                    <img class="sanjay-1-icon" alt="" src="../public/assets/images/sanjay-1@2x.png">
+                    <div class="col-12 col-md-4">
+                        <div class="image-info"></div>
+                        <img class="sanjay-1-icon" alt="" src="../public/assets/images/sanjay-1@2x.png">
+                    </div>
                 </div>
             </div>
         </div>
         <div class="kunal-info">
-            <div class="row d-flex">
-                <div class="col-4">
-                    <div class="image-info"></div>
-                    <img class="kunals-1-icon" alt="" src="../public/assets/images/kunals-1@2x.png">
-                    <!-- <img class="sanjay-1-icon" alt="" src="../public/assets/images/sanjay-1@2x.png"> -->
-                </div>
-                <div class="col-8">
-                    <div class="entrepreneurial-kunal d-flex">
-                        <div class="leadership-team-child2">
-                            <div class="an-entrepreneurial-leader">
-                                <div class="sanjay-patel">Kunal Patel </div>
-                                <div class="Founder-info-ceo">Founder CEO & Director</div>
-                                An entrepreneurial leader with passion, perseverance, and
-                                determination. Sanjay oversees all aspects of eAspire business
-                                operations and governance. He and his team have grown the company from
-                                its beginnings as a small start-up in 2006, through decades of
-                                technological change, to a provider of staffing, consulting, software
-                                engineering and outsourcing services that is always focused on
-                                delighting customers and delivering value to the marketplace.
+            <div class="background-color-kunal">
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                        <div class="image-info"></div>
+                        <img class="kunals-1-icon" alt="" src="../public/assets/images/kunals-1@2x.png">
+                    </div>
+                    <div class="col-12 col-md-8">
+                        <div class="entrepreneurial-kunal d-flex">
+                            <div class="leadership-team-child2">
+                                <div class="an-entrepreneurial-leader2">
+                                    <div class="sanjay-patel">Sanjay Patel </div>
+                                    <div class="Founder-info-ceo">Founder CEO & Director</div>
+                                    An entrepreneurial leader with passion, perseverance, and
+                                    determination. Sanjay oversees all aspects of eAspire business
+                                    operations and governance. He and his team have grown the company from
+                                    its beginnings as a small start-up in 2006, through decades of
+                                    technological change, to a provider of staffing, consulting, software
+                                    engineering and outsourcing services that is always focused on
+                                    delighting customers and delivering value to the marketplace.
+                                </div>
                             </div>
                         </div>
                     </div>
-
-
                 </div>
             </div>
         </div>
     </div>
-
 </div>
 
 
